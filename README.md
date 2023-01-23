@@ -23,10 +23,9 @@ I am a second year student at the University of Sussex - currently looking for *
 #
 
 ---
-### 🖥️ Currently Learning
+### 🖥️ Currently Studying
 
-- Compiliation (using Java)
-- Natural Language Processing
-- MySQL
-- Program Analysis
+- Computer Vision
+- Acquired Intelligence and Adaptive Systems
+- Machine Learning
 - Spring
