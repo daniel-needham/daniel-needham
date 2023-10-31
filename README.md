@@ -2,7 +2,7 @@
 
 **`Computer Science and Artificial Intelligence Student`**
 
-I am a second year student at the University of Sussex - currently looking for **summer internship opportunities** for 2023!
+I am a final year student at the University of Sussex - currently looking for **graduate jobs** for 2024!
 
 
 ---
@@ -19,13 +19,16 @@ I am a second year student at the University of Sussex - currently looking for *
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 
 #
 
 ---
 ### 🖥️ Currently Studying
 
-- Computer Vision
-- Acquired Intelligence and Adaptive Systems
-- Machine Learning
-- Spring
+- Computer Security
+- Knowledge and Reasoning
+- Intelligence in Animals and Machines
+- Final Year Project - Leveraging LLMs, Vector Databases and RAG to create an interactive narrative generator with language models fine tuned on different literary genres.
